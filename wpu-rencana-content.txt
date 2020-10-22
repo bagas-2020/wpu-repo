@@ -5,6 +5,7 @@ Rencana konten WPU
   *Framework Javascript
    ^ vue
    ^ React
+   ^ Angular
 -Struktur data dasar  
 -Framework PHP
  *Laravel
